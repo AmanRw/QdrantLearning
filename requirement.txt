@@ -1,0 +1,8 @@
+langchain
+sentence_transformers
+torch
+pypdf
+qdrant-client
+langchain-qdrant
+langchain-huggingface
+langchain-community
